@@ -6,3 +6,5 @@
 - Withdraw: Captital in ETH + Interest in tokens
 - Borrow: Colateral in ETH, borrow tokens
 - Pay Back: Colateral - fees in tokens
+
+- Add demo images
