@@ -12,5 +12,5 @@
 
 
 #### Withdraw Example:
-<img src="https://user-images.githubusercontent.com/8581678/141865258-2b936be1-884c-4697-b5e4-3b47a8969a80.gif" width="70%" height="70%" />
+<img src="https://user-images.githubusercontent.com/8581678/141865808-ca66aaee-2335-4b23-ab3a-1e7b931cbc65.gif" width="70%" height="70%" />
 
