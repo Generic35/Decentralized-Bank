@@ -5,4 +5,4 @@
 - Deposit: (10% APY) for min. deposit (0.01 ETH)
 - Withdraw: Captital in ETH + Interest in tokens
 - Borrow: Colateral in ETH, borrow tokens
-- Pay Back: Colateral - fees in tokens
+- Pay Back: Colateral in ETH - fees in tokens
