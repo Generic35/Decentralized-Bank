@@ -8,7 +8,7 @@
 - Pay Back: Colateral - fees in tokens
 
 ### Deposit Example
-<img src="https://user-images.githubusercontent.com/8581678/141865240-5a395380-9f1d-4b57-8ecf-a7b6fcb43931.gif" width="100%" height="100%" />
+<img src="https://user-images.githubusercontent.com/8581678/141865240-5a395380-9f1d-4b57-8ecf-a7b6fcb43931.gif" width="70%" height="70%" />
 
 
 ### Withdraw Example
